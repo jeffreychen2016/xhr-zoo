@@ -1,3 +1,25 @@
 body{
     background-color: green;
 }
+
+#zoo{
+    display: flex;
+    widows: 100%;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.animal{
+    border: solid 2px black;
+    width: 30%;
+    margin: 10px;
+    text-align: center;
+    min-width: 380px;
+}
+
+.animal-image{
+    display: block;
+    width: 80%;
+    height: 60%;
+    margin: 0 auto;
+}
