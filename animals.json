@@ -1,0 +1,109 @@
+{
+    "animals":[
+        {
+            "names":"Blue Posion Array Frog",
+            "type":"Amphibian",
+            "number":21,
+            "isCarnivore":true,
+            "imageURL":"https://www.speakcdn.com/assets/2147/12_frogs.jpg"
+        },
+        {
+            "names":"AFRICAN CLAWED FROG",
+            "type":"Amphibian",
+            "number":15,
+            "isCarnivore":true,
+            "imageURL":"https://www.speakcdn.com/assets/2147/12_african-clawed-frog-web.jpg"
+        },
+        {
+            "names":"AXOLOTL",
+            "type":"Amphibian",
+            "number":18,
+            "isCarnivore":true,
+            "imageURL":"https://www.speakcdn.com/assets/2147/12_axolotl-web.jpg"
+        },
+        {
+            "names":"ANDEAN GOOSE",
+            "type":"Birds",
+            "number":20,
+            "isCarnivore":true,
+            "imageURL":"https://www.speakcdn.com/assets/2147/12_andean-geese-web.jpg"
+        },
+        {
+            "names":"BLUE-BILLED CURASSOW",
+            "type":"Birds",
+            "number":22,
+            "isCarnivore":true,
+            "imageURL":"https://www.speakcdn.com/assets/2147/12_curassow-1.jpg"
+        },
+        {
+            "names":"CAPERCAILLIE",
+            "type":"Birds",
+            "number":24,
+            "isCarnivore":true,
+            "imageURL":"https://www.speakcdn.com/assets/2147/capercallie-web.jpg"
+        },
+        {
+            "names":"BLACK AROWANA",
+            "type":"Fish",
+            "number":50,
+            "isCarnivore":true,
+            "imageURL":"https://www.speakcdn.com/assets/2147/12_black-arowana-web.jpg"
+        },
+        {
+            "names":"BLUE DISCUS",
+            "type":"Fish",
+            "number":52,
+            "isCarnivore":true,
+            "imageURL":"https://www.speakcdn.com/assets/2147/12_discus-web.jpg"
+        },
+        {
+            "names":"BLUE TANG SURGEON FISH",
+            "type":"Fish",
+            "number":48,
+            "isCarnivore":true,
+            "imageURL":"https://www.speakcdn.com/assets/2147/12_blue-tang-surgeonfish.jpg"
+        },
+        {
+            "names":"ALPACA",
+            "type":"Mammals",
+            "number":6,
+            "isCarnivore":true,
+            "imageURL":"https://www.speakcdn.com/assets/2147/12_alpaca1.jpg"
+        },
+        {
+            "names":"AFRICAN-CRESTED PORCUPINE",
+            "type":"Mammals",
+            "number":7,
+            "isCarnivore":true,
+            "imageURL":"https://www.speakcdn.com/assets/2147/12_porcupoine_-_amiee.jpg"
+        },
+        {
+            "names":"BAIRD'S TAPIR",
+            "type":"Mammals",
+            "number":8,
+            "isCarnivore":true,
+            "imageURL":"https://www.speakcdn.com/assets/2147/12_tapir5.jpg"
+        },
+        {
+            "names":"ALDABRA TORTOISE",
+            "type":"Reptiles",
+            "number":6,
+            "isCarnivore":true,
+            "imageURL":"https://www.speakcdn.com/assets/2147/12_koraline_-_aldabra_-_katie_gregory.jpg"
+        },
+        {
+            "names":"ALLIGATOR SNAPPING TURTLE",
+            "type":"Reptiles",
+            "number":7,
+            "isCarnivore":true,
+            "imageURL":"https://www.speakcdn.com/assets/2147/12_alligator-snapping-turtle.jpg"
+        },
+        {
+            "names":"AMERICAN ALLIGATOR",
+            "type":"Reptiles",
+            "number":8,
+            "isCarnivore":true,
+            "imageURL":"https://www.speakcdn.com/assets/2147/12_alligator8.jpg"
+        }
+    ]
+}
