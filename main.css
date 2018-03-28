@@ -1,6 +1,6 @@
-body{
+/* body{
     background-color: green;
-}
+} */
 
 #zoo{
     display: flex;
@@ -22,4 +22,13 @@ body{
     width: 80%;
     height: 60%;
     margin: 0 auto;
+}
+
+
+.red{
+    background-color: red;
+}
+
+.green{
+    background-color: green;
 }
