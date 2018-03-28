@@ -4,7 +4,7 @@
             "names":"BLUE POSION ARRAY FROG",
             "type":"Amphibian",
             "number":21,
-            "isCarnivore":true,
+            "isCarnivore":false,
             "imageURL":"https://www.speakcdn.com/assets/2147/12_frogs.jpg"
         },
         {
@@ -18,7 +18,7 @@
             "names":"AXOLOTL",
             "type":"Amphibian",
             "number":18,
-            "isCarnivore":true,
+            "isCarnivore":false,
             "imageURL":"https://www.speakcdn.com/assets/2147/12_axolotl-web.jpg"
         },
         {
